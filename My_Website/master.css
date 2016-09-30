@@ -1,0 +1,54 @@
+html, body {
+    font-family: "Comic Sans MS", fantasy;
+    color: 	#87CEFA;
+    background-color: grey; 
+    background-attachment: fixed;
+    cursor: url("images/cursor.png"), auto;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+/* NAVIGATION BAR*/
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    cursor: url("images/cursor.png"), auto;
+}
+.menu li {
+    float: left;
+}
+.menu li a {
+    display: block;
+    color: #87CEFA;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    cursor: url("images/cursor.png"), auto;
+} 
+.menu li a:hover:not(.active) {
+    background-color: #111;
+}
+tr{
+    border: 1px solid #ffffff;
+    text-align: center;
+    background-color: #6495ED;
+}
+th{
+    text-align: center;
+    color: #6495ED;
+    background-color: #87CEFA;
+}
+h3{ 
+    font-size: 1.3em;
+}
+.image {
+    display: block;
+    margin: 0 auto;
+}
+#index {
+    text-align: center;
+}

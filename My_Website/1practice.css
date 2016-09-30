@@ -1,0 +1,12 @@
+p.bluetext { 
+    color: blue;
+}
+p.redtext { 
+    color: red;
+}
+.important { 
+   font-style: italic;
+}
+#mine { 
+   font-weight: bold;
+}
