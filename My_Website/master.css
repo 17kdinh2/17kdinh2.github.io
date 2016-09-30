@@ -54,8 +54,6 @@ h3{
 }
 table{
     text-align: center;
-}
-table{ 
     float: inherit;
     width: 45%;
 }
@@ -74,6 +72,13 @@ table{
     margin-right: auto;
     width: 20%;
 }
-p {
-    font-size: 100%;
+p.description {
+    font-size: 125%;
+}
+p.title {
+    font-size: 150%;
+}
+.list-size{
+    font-size:20px;
+    font-family: "Comic Sans MS", fantasy;
 }
