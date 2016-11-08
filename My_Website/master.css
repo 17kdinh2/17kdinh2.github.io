@@ -48,6 +48,7 @@ h3{
 .image {
     display: block;
     margin: 0 auto;
+    cursor: url("images/cursor.png"), auto;
 }
 #index {
     text-align: center;
