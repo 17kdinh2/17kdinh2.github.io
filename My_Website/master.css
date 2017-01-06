@@ -48,7 +48,6 @@ h3{
 .image {
     display: block;
     margin: 0 auto;
-    cursor: url("images/cursor.png"), auto;
 }
 #index {
     text-align: center;
@@ -82,4 +81,8 @@ p.title {
 .list-size{
     font-size:20px;
     font-family: "Comic Sans MS", fantasy;
+}
+#game {
+    border: 4px white;
+    cursor: url("images/cursor.png"), auto;
 }
