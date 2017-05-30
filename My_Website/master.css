@@ -86,3 +86,7 @@ p.title {
     border: 4px white;
     cursor: url("images/cursor.png"), auto;
 }
+.listsize{
+    font-size:15px;
+    font-family: "Comic Sans MS", fantasy;
+}
